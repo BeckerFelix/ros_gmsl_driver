@@ -21,6 +21,7 @@ To move data from/to GPU-CPU is very inefficient. Avoid it as much as possible
 ### Installing
 
 ```
+sudo apt install ros-kinetic-camera-info-manager
 cd ~catkin_ws/src/
 git clone https://github.com/DavidTorresOcana/ros_gmsl_driver/
 cd ..
