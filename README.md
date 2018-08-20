@@ -20,6 +20,7 @@ A ROS driver for GMSL cameras on [Drive PX platform](https://www.nvidia.com/en-u
 ### Installing
 
 ```
+sudo apt install ros-kinetic-camera-info-manager
 cd ~catkin_ws/src/
 git clone https://github.com/DavidTorresOcana/ros_gmsl_driver/
 cd ..
